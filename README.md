@@ -33,6 +33,7 @@ This assignment is writing in C++ in OOP class as part of my B.Sc degree in Comp
 
 
 <h4>Example for input:</h4>
+
 1
 
 2 
